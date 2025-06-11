@@ -15,7 +15,7 @@ I'm a **Full-Stack Developer** passionate about building **scalable, high-perfor
 
 ---
 
-### 🔥 **Tech Stack**
+### 🔥 **Tech I have worked with**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,py,go,php,wordpress,sass,tailwind,d3,mysql,graphql,prisma,npm,pnpm,vite,redux,regex,redis,githubactions,aws,docker,webpack,gulp,elasticsearch,figma,git,github" />
 </p>
